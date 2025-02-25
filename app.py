@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 import sqlite3
-#import plotly.express as px
+import plotly.express as px
 from datetime import datetime
 import pandas as pd
 
